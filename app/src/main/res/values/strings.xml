@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EmotionsApp</string>
+    <string name="list">List</string>
+    <string name="addentry">+</string>
+    <string name="back">Back</string>
+    <string name="inputdata">Name</string>
+    <string name="greet">Describe your day!</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+</resources>
